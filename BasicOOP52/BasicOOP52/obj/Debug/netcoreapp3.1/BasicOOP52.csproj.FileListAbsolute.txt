@@ -1,0 +1,13 @@
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.exe
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.deps.json
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.runtimeconfig.json
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.runtimeconfig.dev.json
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.dll
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\bin\Debug\netcoreapp3.1\BasicOOP52.pdb
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.csproj.AssemblyReference.cache
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.AssemblyInfoInputs.cache
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.AssemblyInfo.cs
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.csproj.CoreCompileInputs.cache
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.dll
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.pdb
+C:\Users\Bonifasius\source\repos\BasicOOP52\BasicOOP52\obj\Debug\netcoreapp3.1\BasicOOP52.genruntimeconfig.cache
